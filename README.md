@@ -7,3 +7,4 @@ ini fitur 2
 ini baru ditambahkan di git hub
 
 Nama saya Arkan farrasabyan
+kelas 1B
